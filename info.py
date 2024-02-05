@@ -79,8 +79,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'nboll')
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+8mOqChNoVPA3MDE1')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/streaamdb')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+8mOqChNoVPA3MDE1')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/Rkbotz")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/Rkbotz")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/shortnfly/327")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/shortnfly/327")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds 
